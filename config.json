@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "name": "food_db",
+    "user": "root",
+    "password": ""
+  },
+  "env": "dev",
+  "cookie": {
+    "key": "secret key",
+    "auth": "__auth_id"
+  }
+}
